@@ -1,0 +1,14 @@
+_id,device_id,type
+0,0,Gyroscope
+1,0,Contact
+2,0,Calories
+3,0,Accelerometer
+4,0,SkinTemperature
+5,0,Ambient
+6,0,UV
+7,0,Barometer
+8,0,Distance
+9,0,heartRate
+10,0,Altimeter
+11,0,Pedometer
+12,0,GSR
