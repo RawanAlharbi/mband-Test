@@ -1,0 +1,7 @@
+_id,device_id,type
+0,0,Accelerometer
+1,0,SkinTemperature
+2,0,Gyroscope
+3,0,Ambient
+4,0,heartRate
+5,0,GSR
