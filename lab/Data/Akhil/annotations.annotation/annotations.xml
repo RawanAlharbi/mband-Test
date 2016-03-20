@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="164.534" start="March 18 2016 17:53:52 GMT-0500" title="" annotation-modificationDate="March 19 2016 01:12:46 GMT-0500" annotation-modificationUser="Rawan Alharbi" image="images/164534.jpg">Start</event>
+    <event startTimeInterval="170.096" start="March 18 2016 17:53:58 GMT-0500" endTimeInterval="362.084" end="March 18 2016 17:57:10 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Eating" image="images/170096.jpg">Pizza<category name="Eating"></category>
+    </event>
+    <event startTimeInterval="378.569" start="March 18 2016 17:57:26 GMT-0500" endTimeInterval="392.459" end="March 18 2016 17:57:40 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Non-Eating" color="#ff0000" image="images/378569.jpg">Blow Nose<category name="Non-Eating"></category>
+    </event>
+    <event startTimeInterval="394.709" start="March 18 2016 17:57:42 GMT-0500" endTimeInterval="475.733" end="March 18 2016 17:59:03 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Drinking" color="#00ff00" image="images/394709.jpg">Water<category name="Drinking"></category>
+    </event>
+    <event startTimeInterval="479.417" start="March 18 2016 17:59:07 GMT-0500" endTimeInterval="502.584" end="March 18 2016 17:59:30 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Non-Eating" color="#ff0000" image="images/479417.jpg">Walking<category name="Non-Eating"></category>
+    </event>
+    <event startTimeInterval="525.792" start="March 18 2016 17:59:53 GMT-0500" endTimeInterval="611.821" end="March 18 2016 18:01:19 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Eating" color="#0000ff" image="images/525792.jpg">Pritzl<category name="Eating"></category>
+    </event>
+    <event startTimeInterval="676.21" start="March 18 2016 18:02:24 GMT-0500" endTimeInterval="778.8200000000001" end="March 18 2016 18:04:06 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Eating" image="images/676210.jpg">Bannana<category name="Eating"></category>
+    </event>
+    <event startTimeInterval="780.9589999999999" start="March 18 2016 18:04:08 GMT-0500" endTimeInterval="802.919" end="March 18 2016 18:04:30 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Non-Eating" image="images/780959.jpg">Glasses<category name="Non-Eating"></category>
+    </event>
+    <event startTimeInterval="830.542" start="March 18 2016 18:04:58 GMT-0500" endTimeInterval="851.126" end="March 18 2016 18:05:19 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Non-Eating" color="#ff0000" image="images/830542.jpg">Phone<category name="Non-Eating"></category>
+    </event>
+    <event startTimeInterval="176.917" start="March 18 2016 17:54:04 GMT-0500" endTimeInterval="185.584" end="March 18 2016 17:54:13 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/176917.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="188.014" start="March 18 2016 17:54:16 GMT-0500" endTimeInterval="204.067" end="March 18 2016 17:54:32 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/188014.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="209.292" start="March 18 2016 17:54:37 GMT-0500" endTimeInterval="220.626" end="March 18 2016 17:54:48 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/209292.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="225.001" start="March 18 2016 17:54:53 GMT-0500" endTimeInterval="239.542" end="March 18 2016 17:55:07 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" color="#ffff00" image="images/225001.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="242.501" start="March 18 2016 17:55:10 GMT-0500" endTimeInterval="253.042" end="March 18 2016 17:55:21 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/242501.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="257.709" start="March 18 2016 17:55:25 GMT-0500" endTimeInterval="274.501" end="March 18 2016 17:55:42 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/257709.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="279.917" start="March 18 2016 17:55:47 GMT-0500" endTimeInterval="290.584" end="March 18 2016 17:55:58 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/279917.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="295.084" start="March 18 2016 17:56:03 GMT-0500" endTimeInterval="313.917" end="March 18 2016 17:56:21 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/295084.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="318.126" start="March 18 2016 17:56:26 GMT-0500" endTimeInterval="332.251" end="March 18 2016 17:56:40 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/318126.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="335.459" start="March 18 2016 17:56:43 GMT-0500" endTimeInterval="359.789" end="March 18 2016 17:57:07 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/335459.jpg">Pizza<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="529.126" start="March 18 2016 17:59:57 GMT-0500" endTimeInterval="545.7089999999999" end="March 18 2016 18:00:13 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/529126.jpg">Pritzl<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="548.751" start="March 18 2016 18:00:16 GMT-0500" endTimeInterval="560.349" end="March 18 2016 18:00:28 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/548751.jpg">Pritzl<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="566.167" start="March 18 2016 18:00:34 GMT-0500" endTimeInterval="581.5309999999999" end="March 18 2016 18:00:49 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/566167.jpg">Pritzl<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="583.7089999999999" start="March 18 2016 18:00:51 GMT-0500" endTimeInterval="600.272" end="March 18 2016 18:01:08 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/583709.jpg">Pritzl<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="690.7089999999999" start="March 18 2016 18:02:38 GMT-0500" endTimeInterval="697.342" end="March 18 2016 18:02:45 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/690709.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="700.9589999999999" start="March 18 2016 18:02:48 GMT-0500" endTimeInterval="707.4589999999999" end="March 18 2016 18:02:55 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/700959.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="710.0839999999999" start="March 18 2016 18:02:58 GMT-0500" endTimeInterval="717.042" end="March 18 2016 18:03:05 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/710084.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="719.7089999999999" start="March 18 2016 18:03:07 GMT-0500" endTimeInterval="727.751" end="March 18 2016 18:03:15 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/719709.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="730.5839999999999" start="March 18 2016 18:03:18 GMT-0500" endTimeInterval="737.917" end="March 18 2016 18:03:25 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/730584.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="742.167" start="March 18 2016 18:03:30 GMT-0500" endTimeInterval="749.425" end="March 18 2016 18:03:37 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/742167.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="753.3339999999999" start="March 18 2016 18:03:41 GMT-0500" endTimeInterval="761.042" end="March 18 2016 18:03:49 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/753334.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="404.626" start="March 18 2016 17:57:52 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/404626.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="409.709" start="March 18 2016 17:57:57 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/409709.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="413.959" start="March 18 2016 17:58:01 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/413959.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="416.542" start="March 18 2016 17:58:04 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/416542.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="423.084" start="March 18 2016 17:58:11 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/423084.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="430.542" start="March 18 2016 17:58:18 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/430542.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="437.43" start="March 18 2016 17:58:25 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/437430.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="445.376" start="March 18 2016 17:58:33 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/445376.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="451.626" start="March 18 2016 17:58:39 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/451626.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="459.042" start="March 18 2016 17:58:47 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/459042.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="467.291" start="March 18 2016 17:58:55 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/467291.jpg">Water<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="332.001" start="March 18 2016 17:56:40 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/332001.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="290.376" start="March 18 2016 17:55:58 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/290376.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="185.042" start="March 18 2016 17:54:13 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/185042.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="204.262" start="March 18 2016 17:54:32 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/204262.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="220.417" start="March 18 2016 17:54:48 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/220417.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="237.376" start="March 18 2016 17:55:05 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/237376.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="252.428" start="March 18 2016 17:55:20 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/252428.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="274.546" start="March 18 2016 17:55:42 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/274546.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="313.292" start="March 18 2016 17:56:21 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/313292.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="359.043" start="March 18 2016 17:57:07 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/359043.jpg">Pizza<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="544.501" start="March 18 2016 18:00:12 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/544501.jpg">Pritzl<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="561.042" start="March 18 2016 18:00:29 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/561042.jpg">Pritzl<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="598.0839999999999" start="March 18 2016 18:01:06 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/598084.jpg">Pritzl<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="695.667" start="March 18 2016 18:02:43 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/695667.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="705.848" start="March 18 2016 18:02:53 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/705848.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="715.001" start="March 18 2016 18:03:03 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/715001.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="725.042" start="March 18 2016 18:03:13 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/725042.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="734.876" start="March 18 2016 18:03:22 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/734876.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="748.042" start="March 18 2016 18:03:36 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/748042.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="761.126" start="March 18 2016 18:03:49 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/761126.jpg">Bannana<category name="Swallow"></category>
+    </event>
+    <event startTimeInterval="763.126" start="March 18 2016 18:03:51 GMT-0500" endTimeInterval="770.359" end="March 18 2016 18:03:58 GMT-0500" isDuration="true" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Chewing" image="images/763126.jpg">Bannana<category name="Chewing"></category>
+    </event>
+    <event startTimeInterval="770.292" start="March 18 2016 18:03:58 GMT-0500" title="" annotation-modificationDate="March 19 2016 14:34:47 GMT-0500" annotation-modificationUser="Rawan Alharbi" annotation-category="Swallow" image="images/770292.jpg">Bannana<category name="Swallow"></category>
+    </event>
+</data>
